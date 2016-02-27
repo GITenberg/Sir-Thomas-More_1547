@@ -1,0 +1,22 @@
+_repo: Sir-Thomas-More_1547
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: Apocrypha
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1547'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'More, Thomas, Saint, 1478-1535 -- Drama'
+title: Sir Thomas More
+url: http://www.gutenberg.org/ebooks/1547
