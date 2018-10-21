@@ -1,5 +1,5 @@
 _repo: Sir-Thomas-More_1547
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: ''
 subjects:
 - !lcc 'PR'
 - !lcsh 'More, Thomas, Saint, 1478-1535 -- Drama'
+- GITenberg
 title: Sir Thomas More
 url: http://www.gutenberg.org/ebooks/1547
